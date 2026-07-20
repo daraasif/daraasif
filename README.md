@@ -1,71 +1,64 @@
-<!-- Profile customized for: daraasif (Aasif Rashid Dar) -->
+<!-- Profile: daraasif | Aasif Rashid Dar | Software Engineer @ Cogveel Technologies -->
 
-<!-- CAPSULE RENDER TOP WAVE -->
+<!-- TOP WAVE -->
 <div align="center">
 
-[![Capsule Render Top](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6E40C9,60:B14EE0,100:FF2D9B&height=200&section=header&text=Aasif%20Rashid%20Dar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20Advocate%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=C0C0C0&animation=fadeIn)](https://github.com/daraasif)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6E40C9,60:B14EE0,100:FF2D9B&height=200&section=header&text=Aasif%20Rashid%20Dar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%7C%20Python%20%7C%20Django&descSize=18&descAlignY=58&descColor=C0C0C0&animation=fadeIn)](https://github.com/daraasif)
 
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=B14EE0&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=%F0%9F%9A%80+Software+Engineer+%40+Cogveel+Technologies;%E2%9A%A1+React+%7C+Python+%7C+Django+%7C+JavaScript;%F0%9F%A4%96+AI+%26+ML+Enthusiast+%7C+Open+Source+Lover;%F0%9F%8E%AF+Turning+Coffee+into+Clean+Code;%F0%9F%8C%9F+Crafting+Pixel-Perfect+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=B14EE0&center=true&vCenter=true&width=750&height=60&lines=Software+Engineer+%40+Cogveel+Technologies;React+%7C+Python+%7C+Django+%7C+JavaScript;AI+%26+ML+Enthusiast+%7C+Open+Source+Lover;Turning+Coffee+into+Clean+Code;Crafting+Pixel-Perfect+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
-<!-- PROFILE METRICS ROW -->
+<!-- METRICS ROW -->
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=daraasif&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/daraasif)
-[![GitHub Followers](https://img.shields.io/github/followers/daraasif?style=for-the-badge&color=B14EE0&logo=github&label=FOLLOWERS)](https://github.com/daraasif?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/daraasif?style=for-the-badge&color=FF2D9B&logo=github&label=TOTAL+STARS)](https://github.com/daraasif)
-[![Years Badge](https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-00D4FF?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/daraasif)
+[![Followers](https://img.shields.io/github/followers/daraasif?style=for-the-badge&color=B14EE0&logo=github&label=FOLLOWERS)](https://github.com/daraasif?tab=followers)
+[![Stars](https://img.shields.io/github/stars/daraasif?style=for-the-badge&color=FF2D9B&logo=github&label=TOTAL+STARS)](https://github.com/daraasif)
+[![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-00D4FF?style=for-the-badge&logoColor=white)](https://github.com/daraasif)
 
 </div>
 
-<!-- STATUS BADGES -->
+<!-- STATUS -->
 <div align="center">
 
-[![Status](https://img.shields.io/badge/STATUS-EMPLOYED-%2300FF88?style=for-the-badge&logo=circle&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
-[![Current Focus](https://img.shields.io/badge/AT-Cogveel%20Technologies%20Pvt%20Ltd-%23B14EE0?style=for-the-badge&logo=building&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
+[![Status](https://img.shields.io/badge/STATUS-EMPLOYED-%2300FF88?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
+[![Company](https://img.shields.io/badge/AT-Cogveel%20Technologies%20Pvt%20Ltd-%23B14EE0?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
 
 </div>
 
 <br/>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 <br/>
 
-<!-- DEVELOPER CARD SECTION -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  &nbsp;Developer Card&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</h2>
+<!-- DEVELOPER CARD -->
+<h2 align="center">Developer Card</h2>
 
 <div align="center">
 
-| 🧬 &nbsp;**Field** | 💠 &nbsp;**Info** |
+| Field | Info |
 |:---|:---|
-| 👤 &nbsp;**Name** | **Aasif Rashid Dar** |
-| 🎯 &nbsp;**Role** | `Software Engineer` |
-| 🏢 &nbsp;**Company** | **Cogveel Technologies Pvt Ltd** |
-| 📍 &nbsp;**Location** | 📌 Kashmir, India |
-| 🧪 &nbsp;**Experience** | ![2+ Years](https://img.shields.io/badge/2%2B-Years-6E40C9?style=flat-square) |
-| 📧 &nbsp;**Email** | [![Email](https://img.shields.io/badge/aasif.dar%40cogveel.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aasif.dar@cogveel.com) |
-| 🌐 &nbsp;**Portfolio** | [![Portfolio](https://img.shields.io/badge/daraasif.dev-FF2D9B?style=flat-square&logo=vercel&logoColor=white)](https://daraasif.dev) |
-| 📄 &nbsp;**Resume** | [![Resume](https://img.shields.io/badge/View%20Resume-00D4FF?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://daraasif.dev/resume) |
-| 💼 &nbsp;**LinkedIn** | [![LinkedIn](https://img.shields.io/badge/daraasif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daraasif) |
-| 🐦 &nbsp;**Twitter / X** | [![Twitter](https://img.shields.io/badge/@daraasif-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/daraasif) |
-| 💬 &nbsp;**Discord** | [![Discord](https://img.shields.io/badge/daraasif-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/daraasif) |
-| 🔭 &nbsp;**Current Focus** | `Building Scalable Software at Cogveel Technologies` |
-| 💸 &nbsp;**Freelance** | ![Available](https://img.shields.io/badge/AVAILABLE-00FF88?style=flat-square&logo=checkmarx&logoColor=white) |
-| ⚡ &nbsp;**Status** | ![Active](https://img.shields.io/badge/ACTIVE-ONLINE-00FF88?style=flat-square) |
+| **Name** | Aasif Rashid Dar |
+| **Role** | `Software Engineer` |
+| **Company** | **Cogveel Technologies Pvt Ltd** |
+| **Location** | Kashmir, India |
+| **Experience** | ![2+ Years](https://img.shields.io/badge/2%2B-Years-6E40C9?style=flat-square) |
+| **Email** | [![Email](https://img.shields.io/badge/aasif.dar%40cogveel.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aasif.dar@cogveel.com) |
+| **Portfolio** | [![Portfolio](https://img.shields.io/badge/daraasif.dev-FF2D9B?style=flat-square&logo=vercel&logoColor=white)](https://daraasif.dev) |
+| **Resume** | [![Resume](https://img.shields.io/badge/View%20Resume-00D4FF?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://daraasif.dev/resume) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/daraasif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daraasif) |
+| **Twitter / X** | [![Twitter](https://img.shields.io/badge/@daraasif-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/daraasif) |
+| **Discord** | [![Discord](https://img.shields.io/badge/daraasif-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/daraasif) |
+| **Current Focus** | `Building Scalable Software at Cogveel Technologies` |
+| **Freelance** | ![Available](https://img.shields.io/badge/AVAILABLE-00FF88?style=flat-square&logo=checkmarx&logoColor=white) |
+| **Status** | ![Active](https://img.shields.io/badge/ACTIVE-ONLINE-00FF88?style=flat-square) |
 
 </div>
 
@@ -75,42 +68,36 @@
 </div>
 <br/>
 
-<!-- ABOUT ME SECTION -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
-  &nbsp;About Me&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
-</h2>
+<!-- ABOUT ME -->
+<h2 align="center">About Me</h2>
 
 <table align="center" width="90%">
 <tr>
 <td width="55%" valign="top">
 
-### ðŸ§  Professional Summary
+**Professional Summary**
 
-> *"I'm a passionate Software Engineer with hands-on experience building high-performance web applications using React, Python, Django, and JavaScript. I love turning ideas into real products."*
+> *"I am a Software Engineer at Cogveel Technologies Pvt Ltd with hands-on experience building high-performance web applications using React, Python, Django, and JavaScript. I love turning ideas into real products."*
 
 I bridge the gap between **beautiful design** and **robust engineering**, crafting experiences users love.
 
 ---
 
-### ðŸŽ¯ Career Goals
-- ðŸš€ Build and ship **production-grade web applications**
-### 🎯 Career Goals
-- 🚀 Build and ship **production-grade web applications**
-- 🤖 Integrate **AI-powered features** into everyday apps
-- 🌍 Contribute meaningfully to **open-source ecosystems**
-- 📈 Grow into a **senior engineering role**
+**Career Goals**
+- Build and ship **production-grade web applications**
+- Integrate **AI-powered features** into everyday apps
+- Contribute meaningfully to **open-source ecosystems**
+- Grow into a **senior engineering role**
 
 ---
 
-### What I'm Building
+**What I'm Building**
+
 ```text
-[==========]  Software Projects at Cogveel     100%  (active)
-[========--]  Full-Stack Web App (React+Django)  80%  (in progress)
-[======----]  Open-Source Dev Toolkit            60%  (building)
-[==========]  Developer Blog & Newsletter       100%  (live)
+[==========]  Software at Cogveel             100%  active
+[========--]  Full-Stack App (React+Django)    80%  in progress
+[======----]  Open-Source Dev Toolkit          60%  building
+[==========]  Developer Blog & Newsletter     100%  live
 ```
 
 </td>
@@ -120,11 +107,11 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <br/><br/>
 
-### ðŸŒ± Currently Learning
+**Currently Learning**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 </td>
@@ -133,11 +120,11 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-| ðŸŽ¸ Interests | âš¡ Fun Fact | ðŸŒ… Daily Routine |
+| Interests | Fun Fact | Daily Routine |
 |:---:|:---:|:---:|
-| Anime Â· Music Â· Open Source | I debug code faster at 2AM ðŸŒ™ | Code â†’ Coffee â†’ Gym â†’ Repeat |
+| Anime · Music · Open Source | I debug code faster at 2AM | Code → Coffee → Gym → Repeat |
 
-| ðŸ’œ Favourite Technologies | ðŸ“œ Personal Motto |
+| Favourite Technologies | Personal Motto |
 |:---:|:---:|
 | `React` `Python` `Django` `JavaScript` `PostgreSQL` | *"Ship fast, iterate faster, never stop learning"* |
 
@@ -149,16 +136,11 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </div>
 <br/>
 
-<!-- TECHNOLOGY STACK SECTION -->
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
-  &nbsp;Technology Stack&nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
-</h2>
+<!-- TECH STACK -->
+<h2 align="center">Technology Stack</h2>
 
 <details open>
-<summary><b>ðŸŽ¨ Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br/>
 <div align="center">
 
@@ -175,7 +157,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>âš™ï¸ Backend Development</b></summary>
+<summary><b>Backend Development</b></summary>
 <br/>
 <div align="center">
 
@@ -191,7 +173,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>ðŸ—„ï¸ Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br/>
 <div align="center">
 
@@ -205,7 +187,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>â˜ï¸ Cloud & DevOps</b></summary>
+<summary><b>Cloud and DevOps</b></summary>
 <br/>
 <div align="center">
 
@@ -220,7 +202,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>ðŸ› ï¸ Tools & Design</b></summary>
+<summary><b>Tools and Design</b></summary>
 <br/>
 <div align="center">
 
@@ -240,19 +222,14 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </div>
 <br/>
 
-<!-- GITHUB ANALYTICS SECTION -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px">
-  &nbsp;GitHub Analytics&nbsp;
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px">
-</h2>
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daraasif&theme=radical" height="180em" alt="GitHub Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daraasif&theme=radical" height="180em" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daraasif&theme=radical" height="180em" alt="Most Committed Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daraasif&theme=radical" height="180em" alt="Most Used Language"/>
 
 </div>
 
@@ -276,18 +253,18 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daraasif&bg_color=0D1117&color=B14EE0&line=6E40C9&point=FF2D9B&area=true&area_color=6E40C9&hide_border=false&border_color=6E40C9&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daraasif&bg_color=0D1117&color=B14EE0&line=6E40C9&point=FF2D9B&area=true&area_color=6E40C9&border_color=6E40C9&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
 
-### ðŸ Contribution Snake
+**Contribution Snake**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -298,39 +275,8 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </div>
 <br/>
 
-<!-- FEATURED PROJECTS SECTION -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px">
-  &nbsp;Featured Projects&nbsp;
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px">
-</h2>
-
-<div align="center">
-
-<a href="https://github.com/daraasif?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daraasif&repo=daraasif&theme=radical&bg_color=0D1117&title_color=B14EE0&text_color=FFFFFF&border_color=6E40C9&icon_color=FF2D9B" alt="Profile Repo"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![View All Projects](https://img.shields.io/badge/View_ALL_Projects-B14EE0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daraasif?tab=repositories)
-
-</div>
-
-<br/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<br/>
-
-<!-- ACHIEVEMENTS SECTION -->
-
-<h2 align="center">
-  ðŸ† Achievements & Trophies ðŸ†
-</h2>
+<!-- ACHIEVEMENTS -->
+<h2 align="center">Achievements and Trophies</h2>
 
 <div align="center">
 
@@ -344,13 +290,8 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </div>
 <br/>
 
-<!-- CODING PLATFORMS SECTION -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="32px">
-  &nbsp;Coding Platforms&nbsp;
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="32px">
-</h2>
+<!-- CODING PLATFORMS -->
+<h2 align="center">Coding Platforms</h2>
 
 <div align="center">
 
@@ -367,16 +308,13 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </div>
 <br/>
 
-<!-- SOCIAL MEDIA SECTION -->
-
-<h2 align="center">
-  ðŸŒ Connect With Me ðŸŒ
-</h2>
+<!-- CONNECT -->
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daraasif)
-[![Twitter / X](https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/daraasif)
+[![Twitter](https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/daraasif)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daraasif)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daraasif)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasif.dar@cogveel.com)
@@ -391,30 +329,23 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </div>
 <br/>
 
-<!-- VISITOR SECTION -->
-
-<h2 align="center">
-  ðŸ‘ï¸ Visitors & Insights ðŸ‘ï¸
-</h2>
+<!-- VISITOR STATS -->
+<h2 align="center">Visitors and Insights</h2>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=daraasif&style=for-the-badge&color=B14EE0&label=TOTAL+PROFILE+VIEWS)](https://github.com/daraasif)
-[![GitHub Followers](https://img.shields.io/github/followers/daraasif?label=FOLLOWERS&style=for-the-badge&color=6E40C9)](https://github.com/daraasif?tab=followers)
+[![Followers](https://img.shields.io/github/followers/daraasif?label=FOLLOWERS&style=for-the-badge&color=6E40C9)](https://github.com/daraasif?tab=followers)
 
 </div>
 
 <div align="center">
-
-### ðŸ’¬ Random Developer Quote
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 <div align="center">
-
-### ðŸ˜„ Random Programming Joke
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117&qColor=B14EE0&aColor=FF2D9B&textColor=FFFFFF)](https://github.com/ABSphreak/readme-jokes)
 
@@ -427,17 +358,16 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 <br/>
 
 <!-- FOOTER -->
-
 <div align="center">
-<a href="#top">
-  <img src="https://img.shields.io/badge/Back_to_Top-6E40C9?style=for-the-badge" alt="Back to Top"/>
-</a>
+
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-6E40C9?style=for-the-badge)](#)
+
 </div>
 
 <br/>
 
-[![Capsule Render Bottom](https://capsule-render.vercel.app/api?type=waving&color=0:FF2D9B,40:B14EE0,70:6E40C9,100:0D1117&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together!&descSize=16&descColor=CCCCCC&descAlignY=82)](https://github.com/daraasif)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF2D9B,40:B14EE0,70:6E40C9,100:0D1117&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together!&descSize=16&descColor=CCCCCC&descAlignY=82)](https://github.com/daraasif)
 
 <div align="center">
-<sub>Crafted with passion by <a href="https://github.com/daraasif"><b>Aasif Rashid Dar</b></a> - Made with love and coffee - 2026</sub>
+<sub>Crafted with passion by <a href="https://github.com/daraasif"><b>Aasif Rashid Dar</b></a> | Software Engineer @ Cogveel Technologies | 2026</sub>
 </div>
