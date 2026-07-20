@@ -3,14 +3,14 @@
 <!-- CAPSULE RENDER TOP WAVE -->
 <div align="center">
 
-[![Capsule Render Top](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6E40C9,60:B14EE0,100:FF2D9B&height=200&section=header&text=Aasif%20Rashid%20Dar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Open%20Source%20Advocate%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=C0C0C0&animation=fadeIn)](https://github.com/daraasif)
+[![Capsule Render Top](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6E40C9,60:B14EE0,100:FF2D9B&height=200&section=header&text=Aasif%20Rashid%20Dar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20Advocate%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=C0C0C0&animation=fadeIn)](https://github.com/daraasif)
 
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=B14EE0&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%E2%9A%A1+Full-Stack+Web+Developer+%7C+React+%26+Django;%F0%9F%A4%96+AI+%26+ML+Enthusiast+%7C+Open+Source+Lover;%F0%9F%8E%AF+Turning+Coffee+into+Clean+Code;%F0%9F%8C%9F+Crafting+Pixel-Perfect+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=B14EE0&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=%F0%9F%9A%80+Software+Engineer+%40+Cogveel+Technologies;%E2%9A%A1+React+%7C+Python+%7C+Django+%7C+JavaScript;%F0%9F%A4%96+AI+%26+ML+Enthusiast+%7C+Open+Source+Lover;%F0%9F%8E%AF+Turning+Coffee+into+Clean+Code;%F0%9F%8C%9F+Crafting+Pixel-Perfect+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,8 +27,8 @@
 <!-- STATUS BADGES -->
 <div align="center">
 
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-%2300FF88?style=for-the-badge&logo=circle&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
-[![Current Focus](https://img.shields.io/badge/BUILDING-Full--Stack%20Web%20Apps%20with%20React%20%26%20Django-%23B14EE0?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
+[![Status](https://img.shields.io/badge/STATUS-EMPLOYED-%2300FF88?style=for-the-badge&logo=circle&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
+[![Current Focus](https://img.shields.io/badge/AT-Cogveel%20Technologies%20Pvt%20Ltd-%23B14EE0?style=for-the-badge&logo=building&logoColor=white&labelColor=0D1117)](https://github.com/daraasif)
 
 </div>
 
@@ -53,8 +53,8 @@
 | 🧬 &nbsp;**Field** | 💠 &nbsp;**Info** |
 |:---|:---|
 | 👤 &nbsp;**Name** | **Aasif Rashid Dar** |
-| 🎯 &nbsp;**Role** | `Full-Stack Web Developer` |
-| 🏢 &nbsp;**Company** | **Open to Opportunities** |
+| 🎯 &nbsp;**Role** | `Software Engineer` |
+| 🏢 &nbsp;**Company** | **Cogveel Technologies Pvt Ltd** |
 | 📍 &nbsp;**Location** | 📌 Kashmir, India |
 | 🧪 &nbsp;**Experience** | ![2+ Years](https://img.shields.io/badge/2%2B-Years-6E40C9?style=flat-square) |
 | 📧 &nbsp;**Email** | [![Email](https://img.shields.io/badge/aasif.dar%40cogveel.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aasif.dar@cogveel.com) |
@@ -63,9 +63,9 @@
 | 💼 &nbsp;**LinkedIn** | [![LinkedIn](https://img.shields.io/badge/daraasif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daraasif) |
 | 🐦 &nbsp;**Twitter / X** | [![Twitter](https://img.shields.io/badge/@daraasif-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/daraasif) |
 | 💬 &nbsp;**Discord** | [![Discord](https://img.shields.io/badge/daraasif-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/daraasif) |
-| 🔭 &nbsp;**Current Focus** | `Building Full-Stack Web Apps with React & Django` |
+| 🔭 &nbsp;**Current Focus** | `Building Scalable Software at Cogveel Technologies` |
 | 💸 &nbsp;**Freelance** | ![Available](https://img.shields.io/badge/AVAILABLE-00FF88?style=flat-square&logo=checkmarx&logoColor=white) |
-| ⚡ &nbsp;**Status** | ![Active](https://img.shields.io/badge/🟢%20ACTIVE-ONLINE-00FF88?style=flat-square) |
+| ⚡ &nbsp;**Status** | ![Active](https://img.shields.io/badge/ACTIVE-ONLINE-00FF88?style=flat-square) |
 
 </div>
 
@@ -87,27 +87,27 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🧠 Professional Summary
+### ðŸ§  Professional Summary
 
-> *"I'm a passionate Full-Stack Web Developer with hands-on experience building high-performance web applications using React, Python, Django, and JavaScript. I love turning ideas into real products."*
+> *"I'm a passionate Software Engineer with hands-on experience building high-performance web applications using React, Python, Django, and JavaScript. I love turning ideas into real products."*
 
 I bridge the gap between **beautiful design** and **robust engineering**, crafting experiences users love.
 
 ---
 
-### 🎯 Career Goals
-- 🚀 Build and ship **production-grade web applications**
-- 🤖 Integrate **AI-powered features** into everyday apps
-- 🌍 Contribute meaningfully to **open-source ecosystems**
-- 📈 Grow into a **senior engineering role**
+### ðŸŽ¯ Career Goals
+- ðŸš€ Build and ship **production-grade web applications**
+- ðŸ¤– Integrate **AI-powered features** into everyday apps
+- ðŸŒ Contribute meaningfully to **open-source ecosystems**
+- ðŸ“ˆ Grow into a **senior engineering role**
 
 ---
 
-### 🔨 What I'm Building
+### ðŸ”¨ What I'm Building
 ```
-🏗️  Full-Stack Web App (React + Django)  [████████░░] 80%
-🎮  Open-Source Dev Toolkit              [██████░░░░] 60%
-📝  Developer Blog & Newsletter          [██████████] 100%
+ðŸ—ï¸  Full-Stack Web App (React + Django)  [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘] 80%
+ðŸŽ®  Open-Source Dev Toolkit              [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘] 60%
+ðŸ“  Developer Blog & Newsletter          [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ] 100%
 ```
 
 </td>
@@ -117,7 +117,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <br/><br/>
 
-### 🌱 Currently Learning
+### ðŸŒ± Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -130,11 +130,11 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-| 🎸 Interests | ⚡ Fun Fact | 🌅 Daily Routine |
+| ðŸŽ¸ Interests | âš¡ Fun Fact | ðŸŒ… Daily Routine |
 |:---:|:---:|:---:|
-| Anime · Music · Open Source | I debug code faster at 2AM 🌙 | Code → Coffee → Gym → Repeat |
+| Anime Â· Music Â· Open Source | I debug code faster at 2AM ðŸŒ™ | Code â†’ Coffee â†’ Gym â†’ Repeat |
 
-| 💜 Favourite Technologies | 📜 Personal Motto |
+| ðŸ’œ Favourite Technologies | ðŸ“œ Personal Motto |
 |:---:|:---:|
 | `React` `Python` `Django` `JavaScript` `PostgreSQL` | *"Ship fast, iterate faster, never stop learning"* |
 
@@ -155,7 +155,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </h2>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>ðŸŽ¨ Frontend Development</b></summary>
 <br/>
 <div align="center">
 
@@ -172,7 +172,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>âš™ï¸ Backend Development</b></summary>
 <br/>
 <div align="center">
 
@@ -188,7 +188,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>ðŸ—„ï¸ Databases</b></summary>
 <br/>
 <div align="center">
 
@@ -202,7 +202,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>â˜ï¸ Cloud & DevOps</b></summary>
 <br/>
 <div align="center">
 
@@ -217,7 +217,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Design</b></summary>
+<summary><b>ðŸ› ï¸ Tools & Design</b></summary>
 <br/>
 <div align="center">
 
@@ -279,7 +279,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### ðŸ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake-dark.svg">
@@ -326,7 +326,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 <!-- ACHIEVEMENTS SECTION -->
 
 <h2 align="center">
-  🏆 Achievements & Trophies 🏆
+  ðŸ† Achievements & Trophies ðŸ†
 </h2>
 
 <div align="center">
@@ -367,7 +367,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 <!-- SOCIAL MEDIA SECTION -->
 
 <h2 align="center">
-  🌐 Connect With Me 🌐
+  ðŸŒ Connect With Me ðŸŒ
 </h2>
 
 <div align="center">
@@ -391,7 +391,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 <!-- VISITOR SECTION -->
 
 <h2 align="center">
-  👁️ Visitors & Insights 👁️
+  ðŸ‘ï¸ Visitors & Insights ðŸ‘ï¸
 </h2>
 
 <div align="center">
@@ -403,7 +403,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-### 💬 Random Developer Quote
+### ðŸ’¬ Random Developer Quote
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -411,7 +411,7 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-### 😄 Random Programming Joke
+### ðŸ˜„ Random Programming Joke
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117&qColor=B14EE0&aColor=FF2D9B&textColor=FFFFFF)](https://github.com/ABSphreak/readme-jokes)
 
