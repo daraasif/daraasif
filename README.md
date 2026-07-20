@@ -225,38 +225,38 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 <!-- GITHUB ANALYTICS -->
 <h2 align="center">GitHub Analytics</h2>
 
+<!-- Live stats via shields.io dynamic badges — never rate limited -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daraasif&theme=radical" height="180em" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daraasif&theme=radical" height="180em" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daraasif&theme=radical" height="180em" alt="Most Used Language"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=public_repos&label=Public%20Repos&style=for-the-badge&color=6E40C9&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=followers&label=Followers&style=for-the-badge&color=B14EE0&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=following&label=Following&style=for-the-badge&color=FF2D9B&logo=github&logoColor=white)
+![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=public_gists&label=Gists&style=for-the-badge&color=00D4FF&logo=github&logoColor=white)
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daraasif&theme=radical" width="100%" alt="Profile Details"/>
-
-</div>
-
+<!-- Streak Stats — reliable service -->
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daraasif&theme=radical&background=0D1117&border=6E40C9&stroke=B14EE0&ring=FF2D9B&fire=FF2D9B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B14EE0&sideLabels=B14EE0&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
+<!-- Trophies — reliable service -->
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daraasif&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<!-- Activity Graph — reliable service -->
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daraasif&bg_color=0D1117&color=B14EE0&line=6E40C9&point=FF2D9B&area=true&area_color=6E40C9&border_color=6E40C9&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<!-- Snake Contribution Animation -->
 <div align="center">
 
 **Contribution Snake**
