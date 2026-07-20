@@ -245,10 +245,13 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 </div>
 
-<!-- Trophies — reliable service -->
+<!-- Repository Stats — shields.io, never fails -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daraasif&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Adaraasif&query=total_count&label=Total+Repos&style=for-the-badge&color=6E40C9&logo=github&logoColor=white)
+![Stars Earned](https://img.shields.io/github/stars/daraasif?style=for-the-badge&color=FF2D9B&logo=star&logoColor=white&label=Stars+Earned)
+![Forks](https://img.shields.io/badge/Open%20Source-Contributor-B14EE0?style=for-the-badge&logo=git&logoColor=white)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-00FF88?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -279,11 +282,25 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 <br/>
 
 <!-- ACHIEVEMENTS -->
-<h2 align="center">Achievements and Trophies</h2>
+<h2 align="center">Achievements</h2>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daraasif&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
+| Achievement | Details |
+|:---:|:---|
+| **Software Engineer** | Full-time at Cogveel Technologies Pvt Ltd |
+| **Open Source** | Active contributor on GitHub |
+| **Self-taught** | React, Python, Django, JavaScript, C, C++ |
+| **Builder** | Multiple full-stack web applications shipped |
+| **Community** | Sharing knowledge through blog and open source |
+
+</div>
+
+<div align="center">
+
+![Account Age](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=created_at&label=Member+Since&style=for-the-badge&color=6E40C9&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=public_repos&label=Repos&style=for-the-badge&color=B14EE0&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdaraasif&query=followers&label=Followers&style=for-the-badge&color=FF2D9B&logo=github&logoColor=white)
 
 </div>
 
