@@ -97,17 +97,20 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 ### ðŸŽ¯ Career Goals
 - ðŸš€ Build and ship **production-grade web applications**
-- ðŸ¤– Integrate **AI-powered features** into everyday apps
-- ðŸŒ Contribute meaningfully to **open-source ecosystems**
-- ðŸ“ˆ Grow into a **senior engineering role**
+### 🎯 Career Goals
+- 🚀 Build and ship **production-grade web applications**
+- 🤖 Integrate **AI-powered features** into everyday apps
+- 🌍 Contribute meaningfully to **open-source ecosystems**
+- 📈 Grow into a **senior engineering role**
 
 ---
 
-### ðŸ”¨ What I'm Building
-```
-ðŸ—ï¸  Full-Stack Web App (React + Django)  [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘] 80%
-ðŸŽ®  Open-Source Dev Toolkit              [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘] 60%
-ðŸ“  Developer Blog & Newsletter          [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ] 100%
+### What I'm Building
+```text
+[==========]  Software Projects at Cogveel     100%  (active)
+[========--]  Full-Stack Web App (React+Django)  80%  (in progress)
+[======----]  Open-Source Dev Toolkit            60%  (building)
+[==========]  Developer Blog & Newsletter       100%  (live)
 ```
 
 </td>
