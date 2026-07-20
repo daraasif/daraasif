@@ -235,10 +235,13 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 </div>
 
-<!-- Streak Stats — reliable service -->
+<!-- Commit Activity — shields.io, never fails -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=daraasif&theme=radical&background=0D1117&border=6E40C9&stroke=B14EE0&ring=FF2D9B&fire=FF2D9B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B14EE0&sideLabels=B14EE0&dates=888888)](https://git.io/streak-stats)
+![Last Commit](https://img.shields.io/github/last-commit/daraasif/daraasif?style=for-the-badge&color=FF2D9B&logo=github&logoColor=white&label=Last+Commit)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/daraasif/daraasif?style=for-the-badge&color=B14EE0&logo=github&logoColor=white&label=Monthly+Commits)
+![Commit Activity Yearly](https://img.shields.io/github/commit-activity/y/daraasif/daraasif?style=for-the-badge&color=6E40C9&logo=github&logoColor=white&label=Yearly+Commits)
+![Repo Size](https://img.shields.io/github/repo-size/daraasif/daraasif?style=for-the-badge&color=00D4FF&logo=github&logoColor=white&label=Profile+Repo+Size)
 
 </div>
 
