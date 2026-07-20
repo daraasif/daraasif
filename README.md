@@ -247,8 +247,15 @@ I bridge the gap between **beautiful design** and **robust engineering**, crafti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daraasif&show_icons=true&theme=radical&bg_color=0D1117&title_color=B14EE0&icon_color=FF2D9B&text_color=FFFFFF&border_color=6E40C9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daraasif&layout=compact&langs_count=10&theme=radical&bg_color=0D1117&title_color=B14EE0&text_color=FFFFFF&border_color=6E40C9&hide_border=false" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daraasif&theme=radical" height="180em" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daraasif&theme=radical" height="180em" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daraasif&theme=radical" height="180em" alt="Most Committed Language"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daraasif&theme=radical" width="100%" alt="Profile Details"/>
 
 </div>
 
