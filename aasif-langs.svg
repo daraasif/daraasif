@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 232" width="500" height="232" role="img" aria-label="Aasif Rashid Dar Top Languages">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeSlide{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
+@keyframes barGrow{from{width:0}to{width:var(--w)}}
+@keyframes shineX{0%{transform:translateX(-160px) skewX(-12deg)}65%,100%{transform:translateX(560px) skewX(-12deg)}}
+.row{opacity:0;animation:fadeSlide .45s ease forwards}
+.sh{animation:shineX 4.8s ease-in-out 2.2s infinite}
+]]></style>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#B14EE0;#6E40C9;#B14EE0" dur="5s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#FF2D9B;#B14EE0;#FF2D9B" dur="5s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="1" y="1" width="498" height="230" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="498" height="230" rx="14" fill="#0D1117" stroke="url(#tg)" stroke-width="1.5"/>
+<text x="24" y="38" font-size="15" font-weight="bold" fill="url(#tg)">Most Used Languages</text>
+
+<!-- JS -->
+<g class="row" style="animation-delay:.4s">
+  <circle cx="36" cy="66" r="6" fill="#f7df1e"/>
+  <text x="52" y="71" font-size="13" fill="#c9d1d9">JavaScript</text>
+  <rect x="220" y="58" width="0" height="14" rx="7" fill="#f7df1e">
+    <animate attributeName="width" from="0" to="180" dur=".7s" begin=".4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+  </rect>
+  <text x="412" y="71" font-size="12" fill="#fde047">36%</text>
+</g>
+<!-- Python -->
+<g class="row" style="animation-delay:.6s">
+  <circle cx="36" cy="97" r="6" fill="#3776AB"/>
+  <text x="52" y="102" font-size="13" fill="#c9d1d9">Python</text>
+  <rect x="220" y="89" width="0" height="14" rx="7" fill="#3776AB">
+    <animate attributeName="width" from="0" to="150" dur=".7s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+  </rect>
+  <text x="412" y="102" font-size="12" fill="#7dd3fc">30%</text>
+</g>
+<!-- HTML -->
+<g class="row" style="animation-delay:.8s">
+  <circle cx="36" cy="128" r="6" fill="#E34F26"/>
+  <text x="52" y="133" font-size="13" fill="#c9d1d9">HTML</text>
+  <rect x="220" y="120" width="0" height="14" rx="7" fill="#E34F26">
+    <animate attributeName="width" from="0" to="100" dur=".7s" begin=".8s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+  </rect>
+  <text x="412" y="133" font-size="12" fill="#fca5a5">20%</text>
+</g>
+<!-- CSS -->
+<g class="row" style="animation-delay:1.0s">
+  <circle cx="36" cy="159" r="6" fill="#1572B6"/>
+  <text x="52" y="164" font-size="13" fill="#c9d1d9">CSS</text>
+  <rect x="220" y="151" width="0" height="14" rx="7" fill="#1572B6">
+    <animate attributeName="width" from="0" to="50" dur=".7s" begin="1s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+  </rect>
+  <text x="412" y="164" font-size="12" fill="#93c5fd">10%</text>
+</g>
+<!-- C++ -->
+<g class="row" style="animation-delay:1.2s">
+  <circle cx="36" cy="190" r="6" fill="#00599C"/>
+  <text x="52" y="195" font-size="13" fill="#c9d1d9">C / C++</text>
+  <rect x="220" y="182" width="0" height="14" rx="7" fill="#00599C">
+    <animate attributeName="width" from="0" to="20" dur=".7s" begin="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+  </rect>
+  <text x="412" y="195" font-size="12" fill="#bfdbfe">4%</text>
+</g>
+
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="110" height="232" fill="url(#shg)"/></g>
+</svg>
