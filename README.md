@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./aasif-banner.svg">
   <source media="(prefers-color-scheme: light)" srcset="./aasif-banner.svg">
-  <img src="./aasif-banner.svg" alt="Aasif Rashid Dar — Software Engineer at Cogveel Technologies" width="100%"/>
+  <img src="./aasif-banner.svg" alt="Aasif Rashid Dar, Software Engineer at Cogveel Technologies" width="100%"/>
 </picture>
 
 </div>
@@ -21,23 +21,38 @@
 </td>
 <td width="62%" valign="middle">
 
-### My Projects
+### About me
 
-| Project | Tech | Stars |
-|:---|:---:|:---:|
-| [Full-Stack Web Application](https://github.com/daraasif) | `React` `Django` `PostgreSQL` | ⭐ |
-| [REST API Service](https://github.com/daraasif) | `Python` `DRF` `SQL` | ⭐ |
-| [UI Component Library](https://github.com/daraasif) | `React` `CSS` `JS` | ⭐ |
-| [Data Dashboard](https://github.com/daraasif) | `Python` `SQL` `JavaScript` | ⭐ |
-| [Open Source Toolkit](https://github.com/daraasif) | `Python` `Django` `Docker` | ⭐ |
+Software Engineer at **Cogveel Technologies**, Srinagar. For the past two years I have built websites and web apps for clients, mainly with **React, Next.js and TypeScript**, and backends with **Node.js and MongoDB**.
 
-<br/>
+Open to frontend and full-stack roles.
 
-> 💜 *"Ship fast, iterate faster, never stop learning."*
+### Tech stack
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS<br/>
+**Backend:** Node.js · Express · NestJS · REST APIs · WebSockets<br/>
+**Databases:** MongoDB · PostgreSQL · MySQL · Redis<br/>
+**Tools:** Git · Docker · AWS S3 · Postman
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### Projects
+
+| Project | What it is | Tech |
+|:---|:---|:---|
+| **Kashmir Travel Desk** | Travel booking platform. Built the entire frontend on my own. | `Next.js` `TypeScript` `Tailwind CSS` |
+| **PathGrad** | Study-abroad website and admin panel. Built alone, from database to UI. | `React` `Node.js` `Express` `MongoDB` |
+| **Koshme** | Online store for handwoven Kashmiri Pashmina. | `React` `TypeScript` `Redux Toolkit` |
+| **JKAloha** | School management system for an institute with several branches. | `React` `TypeScript` `Redux Toolkit` |
+| **InnovatiCS** | Training company website in English, French and Arabic. | `React` `Node.js` `MongoDB` |
+| **OneTap Cricket** *(side project)* | Mobile app for live, ball-by-ball cricket scoring. | `React Native` `NestJS` `PostgreSQL` `Redis` |
+| [**all-country-flags**](https://github.com/daraasif/all-country-flags) *(open source)* | Every country flag as an SVG, named by ISO code. | `SVG` |
+
+<sub>Most of these are client projects, so their code is private.</sub>
 
 <br/>
 
@@ -55,7 +70,7 @@
 
 <br/><br/>
 
-<!-- Trophies (local animated SVG — always loads) -->
+<!-- Trophies (local animated SVG, always loads) -->
 <img src="./aasif-trophies.svg" alt="Trophies" width="95%"/>
 
 <br/><br/>
@@ -72,9 +87,9 @@
 
 ### Let's Connect
 
-<a href="mailto:aasif.dar@cogveel.com"><img src="https://img.shields.io/badge/Email-B14EE0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:daraasif36@gmail.com"><img src="https://img.shields.io/badge/Email-B14EE0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/daraasif"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/daraasif"><img src="https://img.shields.io/badge/LinkedIn-FF2D9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/aasif-dar-121161143/"><img src="https://img.shields.io/badge/LinkedIn-FF2D9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/daraasif"><img src="https://img.shields.io/badge/Twitter-B14EE0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 <a href="https://instagram.com/daraasif"><img src="https://img.shields.io/badge/Instagram-FF2D9B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
