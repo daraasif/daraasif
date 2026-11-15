@@ -17,7 +17,7 @@ I'm a software engineer at **Cogveel Technologies** in Srinagar. For the past tw
 ## Tech
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git&theme=dark&perline=15">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Credux%2Ctailwind%2Cnodejs%2Cexpress%2Cnestjs%2Cmongodb%2Cpostgres%2Credis%2Cdocker%2Caws%2Cgit&theme=dark&perline=15">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git&theme=light&perline=15" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Node.js, Express, NestJS, MongoDB, PostgreSQL, Redis, Docker, AWS, Git"/>
 </picture>
 
