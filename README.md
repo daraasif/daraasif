@@ -1,104 +1,43 @@
-<div align="center">
+<img src="./header.svg" alt="Aasif Rashid Dar, Software Engineer, Srinagar, Kashmir" width="100%"/>
 
-<!-- Animated Banner -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aasif-dar-121161143/"><img src="https://img.shields.io/badge/LinkedIn-0f766e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:daraasif36@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open_to-frontend_%26_full--stack_roles-14b8a6?style=flat-square" alt="Open to frontend and full-stack roles"/>
+</p>
+
+## About
+
+I'm a software engineer at **Cogveel Technologies** in Srinagar. For the past two years I've built websites and web apps for clients, mainly with **React, Next.js and TypeScript**, and backends with **Node.js and MongoDB** when a project needs one.
+
+- **Now:** building client products at Cogveel (since Jun 2024)
+- **On the side:** OneTap Cricket, a live ball-by-ball cricket scoring app
+- **Next:** a frontend or full-stack role on a product team
+
+## Tech
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./aasif-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./aasif-banner.svg">
-  <img src="./aasif-banner.svg" alt="Aasif Rashid Dar, Software Engineer at Cogveel Technologies" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git&theme=dark&perline=15">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git&theme=light&perline=15" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Node.js, Express, NestJS, MongoDB, PostgreSQL, Redis, Docker, AWS, Git"/>
 </picture>
 
-</div>
+## Selected work
 
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<!-- Swinging Lanyard ID Card -->
-<img src="./aasif-lanyard.svg" alt="Aasif Rashid Dar ID badge" width="330"/>
-
-</td>
-<td width="62%" valign="middle">
-
-### About me
-
-Software Engineer at **Cogveel Technologies**, Srinagar. For the past two years I have built websites and web apps for clients, mainly with **React, Next.js and TypeScript**, and backends with **Node.js and MongoDB**.
-
-Open to frontend and full-stack roles.
-
-### Tech stack
-
-**Frontend:** React · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS<br/>
-**Backend:** Node.js · Express · NestJS · REST APIs · WebSockets<br/>
-**Databases:** MongoDB · PostgreSQL · MySQL · Redis<br/>
-**Tools:** Git · Docker · AWS S3 · Postman
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### Projects
-
-| Project | What it is | Tech |
+| Project | What I did | Stack |
 |:---|:---|:---|
-| **Kashmir Travel Desk** | Travel booking platform. Built the entire frontend on my own. | `Next.js` `TypeScript` `Tailwind CSS` |
-| **PathGrad** | Study-abroad website and admin panel. Built alone, from database to UI. | `React` `Node.js` `Express` `MongoDB` |
-| **Koshme** | Online store for handwoven Kashmiri Pashmina. | `React` `TypeScript` `Redux Toolkit` |
-| **JKAloha** | School management system for an institute with several branches. | `React` `TypeScript` `Redux Toolkit` |
-| **InnovatiCS** | Training company website in English, French and Arabic. | `React` `Node.js` `MongoDB` |
-| **OneTap Cricket** *(side project)* | Mobile app for live, ball-by-ball cricket scoring. | `React Native` `NestJS` `PostgreSQL` `Redis` |
-| [**all-country-flags**](https://github.com/daraasif/all-country-flags) *(open source)* | Every country flag as an SVG, named by ISO code. | `SVG` |
+| **Kashmir Travel Desk** | Built the entire frontend of a travel booking platform on my own: traveller, agency and admin views. | Next.js · TypeScript · Tailwind |
+| **PathGrad** | Built a study-abroad website and admin panel alone, from the database to the UI. | React · Node.js · Express · MongoDB |
+| **Koshme** | Co-built the shop and admin panel of an online store for handwoven Kashmiri Pashmina. | React · TypeScript · Redux Toolkit |
+| **JKAloha** | Built the admin screens of a school management system for an institute with several branches. | React · TypeScript · Redux Toolkit |
+| **InnovatiCS** | Built most of the admin panel of a training company's site in English, French and Arabic. | React · Node.js · MongoDB |
+| **OneTap Cricket** | My side project: a mobile app for live, ball-by-ball cricket scoring. | React Native · NestJS · PostgreSQL · Redis |
+| [**all-country-flags**](https://github.com/daraasif/all-country-flags) | Open source: every country flag as an SVG, named by ISO code. | SVG |
 
 <sub>Most of these are client projects, so their code is private.</sub>
 
-<br/>
-
-<div align="center">
-
-### GitHub Stats and Graphs
-
-<img src="./aasif-stats.svg" alt="GitHub Stats" height="185"/>
-<img src="./aasif-langs.svg" alt="Top Languages" height="185"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daraasif&bg_color=0D1117&color=B14EE0&line=6E40C9&point=FF2D9B&area=true&area_color=6E40C9&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
-<!-- Trophies (local animated SVG, always loads) -->
-<img src="./aasif-trophies.svg" alt="Trophies" width="95%"/>
-
-<br/><br/>
-
-### Watch the snake eat my contributions
+## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/daraasif/daraasif/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daraasif/daraasif/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/daraasif/daraasif/output/snake-light.svg" alt="Snake eating my contribution graph" width="100%"/>
 </picture>
-
-<br/><br/>
-
-### Let's Connect
-
-<a href="mailto:daraasif36@gmail.com"><img src="https://img.shields.io/badge/Email-B14EE0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/daraasif"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/aasif-dar-121161143/"><img src="https://img.shields.io/badge/LinkedIn-FF2D9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/daraasif"><img src="https://img.shields.io/badge/Twitter-B14EE0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://instagram.com/daraasif"><img src="https://img.shields.io/badge/Instagram-FF2D9B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=daraasif&color=B14EE0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-*Always learning, always building.* 🚀
-
-</div>

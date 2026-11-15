@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Aasif Rashid Dar, Software Engineer, Srinagar, Kashmir">
+  <style>
+    .bg { fill: #ffffff; stroke: #d0d7de; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #57606a; }
+    .accent { fill: #0f766e; }
+    .line { fill: none; stroke: #0f766e; stroke-linecap: round; stroke-linejoin: round; }
+    .moon { fill: #0f766e; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; stroke: #30363d; }
+      .ink { fill: #e6edf3; }
+      .muted { fill: #8b949e; }
+      .accent { fill: #2dd4bf; }
+      .line { stroke: #2dd4bf; }
+      .moon { fill: #2dd4bf; }
+    }
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .fade { opacity: 0; animation: fade 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; } .d4 { animation-delay: 0.7s; }
+    .draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 2.4s ease-out forwards; }
+    .w1 { animation-delay: 0.2s; } .w2 { animation-delay: 0.6s; } .w3 { animation-delay: 1s; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect class="bg" x="1" y="1" width="1198" height="298" rx="16" stroke-width="1.5"/>
+
+  <!-- Kashmir skyline: three ridges and a moon -->
+  <circle class="moon fade d2" cx="1080" cy="78" r="20" fill-opacity="0.9"/>
+  <circle class="moon fade d3" cx="980" cy="58" r="2" fill-opacity="0.6"/>
+  <circle class="moon fade d3" cx="1140" cy="132" r="1.6" fill-opacity="0.5"/>
+  <circle class="moon fade d4" cx="900" cy="96" r="1.6" fill-opacity="0.5"/>
+  <path class="line draw w1" stroke-width="1.5" stroke-opacity="0.3" d="M640 232 L712 186 L768 208 L846 146 L906 190 L966 162 L1044 204 L1104 172 L1184 214"/>
+  <path class="line draw w2" stroke-width="2" stroke-opacity="0.55" d="M660 258 L734 220 L800 244 L878 186 L940 230 L1008 200 L1078 240 L1184 204"/>
+  <path class="line draw w3" stroke-width="2.5" d="M620 286 L706 252 L782 272 L870 226 L958 266 L1036 238 L1124 270 L1184 254"/>
+
+  <!-- Text -->
+  <text class="accent mono fade d1" x="64" y="92" font-size="18">// software engineer</text>
+  <text class="ink fade d2" x="62" y="152" font-size="56" font-weight="700">Aasif Rashid Dar</text>
+  <text class="muted fade d3" x="64" y="196" font-size="21">Frontend &amp; full-stack · React, Next.js, TypeScript, Node.js</text>
+  <rect class="accent fade d4" x="64" y="226" width="8" height="8" rx="4"/>
+  <text class="muted fade d4" x="82" y="235" font-size="16">Srinagar, Kashmir  ·  Cogveel Technologies</text>
+</svg>
