@@ -16,10 +16,23 @@ I'm a software engineer at **Cogveel Technologies** in Srinagar. For the past tw
 
 ## Tech
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Credux%2Ctailwind%2Cnodejs%2Cexpress%2Cnestjs%2Cmongodb%2Cpostgres%2Credis%2Cdocker%2Caws%2Cgit&theme=dark&perline=15">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,git&theme=light&perline=15" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Node.js, Express, NestJS, MongoDB, PostgreSQL, Redis, Docker, AWS, Git"/>
-</picture>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" title="Next.js" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" title="TypeScript" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux&theme=dark"><img src="https://skillicons.dev/icons?i=redux&theme=light" alt="Redux" title="Redux" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" title="Node.js" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" title="Express" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs&theme=dark"><img src="https://skillicons.dev/icons?i=nestjs&theme=light" alt="NestJS" title="NestJS" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" title="MongoDB" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"><img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" title="PostgreSQL" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark"><img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" title="Redis" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" title="AWS" width="44" height="44"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="44" height="44"/></picture>
+</p>
 
 ## Selected work
 
